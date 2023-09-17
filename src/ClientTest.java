@@ -8,7 +8,9 @@ public class ClientTest {
                 .buildRoof(true)
                 .build();
 
+
         System.out.println(house);
+        System.out.println(house.getColor());
 
     }
 }

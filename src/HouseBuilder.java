@@ -43,4 +43,5 @@ public class HouseBuilder implements Builder {
     public House build() {
         return new House(walls,doors,hasPool,hasRoof,color);
     }
+
 }
