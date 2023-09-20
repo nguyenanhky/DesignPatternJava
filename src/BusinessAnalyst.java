@@ -1,3 +1,6 @@
+/**
+ * Adpater
+ */
 public class BusinessAnalyst implements Customer {
     private Developer developer;
 
